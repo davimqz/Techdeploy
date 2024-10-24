@@ -15,11 +15,13 @@ Para executar este projeto, você precisará das seguintes ferramentas e versõe
 - **GitHub**: Para controle de versão e colaboração. [GitHub](https://github.com/)
 - **Jira**: Para gerenciamento de projetos e tarefas. [Jira](https://www.atlassian.com/software/jira)
 
-## Como usar localmente 🖥️
-- Use py -m venv venv
-- .\venv\Scripts\activate.bat
-- py manage.py migrate
-- py manage.py runserver
+## Como usar localmente 🖥
+```
+py -m venv venv
+.\venv\Scripts\activate.bat
+py manage.py migrate
+py manage.py runserver
+```
 
 ## Links 🔗
 - https://cesar-team-cl0vsbag.atlassian.net/jira/software/projects/TEC/boards/1/backlog?assignee=unassigned
