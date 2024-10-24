@@ -17,6 +17,7 @@ Para executar este projeto, você precisará das seguintes ferramentas e versõe
 
 ## Como usar localmente 🖥
 ```
+cd .\myproject\
 py -m venv venv
 .\venv\Scripts\activate.bat
 py manage.py migrate
